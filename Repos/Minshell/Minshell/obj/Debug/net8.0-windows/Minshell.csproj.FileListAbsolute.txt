@@ -1,0 +1,14 @@
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.AssemblyInfoInputs.cache
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.AssemblyInfo.cs
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.csproj.CoreCompileInputs.cache
+F:\Repos\Minshell\Minshell\bin\Debug\net8.0-windows\Minshell.exe
+F:\Repos\Minshell\Minshell\bin\Debug\net8.0-windows\Minshell.deps.json
+F:\Repos\Minshell\Minshell\bin\Debug\net8.0-windows\Minshell.runtimeconfig.json
+F:\Repos\Minshell\Minshell\bin\Debug\net8.0-windows\Minshell.dll
+F:\Repos\Minshell\Minshell\bin\Debug\net8.0-windows\Minshell.pdb
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.dll
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\refint\Minshell.dll
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.pdb
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\Minshell.genruntimeconfig.cache
+F:\Repos\Minshell\Minshell\obj\Debug\net8.0-windows\ref\Minshell.dll

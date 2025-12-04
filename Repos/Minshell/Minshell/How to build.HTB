@@ -1,0 +1,19 @@
+
+## Features
+
+- Dark mode GUI with address bar, file list, command box, and output console.
+- Over 100 commands: `dir`, `cd`, `mkdir`, `mkfile`, `del`, `copy`, `move`, `rename`, `type`, `ping`, `ps`, `kill`, `zip`, `unzip`, `md5`, `sha256`, and many more.
+- Safe path handling: all operations are restricted to the `Files` root.
+- Command logging: every executed command is saved with a timestamp.
+
+## Build
+
+1. Install [.NET 8 SDK](https://dotnet.microsoft.com/download).
+2. Clone the repository into `F:\Repos\Minshell\Minshell`.
+3. Ensure `Files` and `Temps` directories exist.
+4. Build and run:
+
+```powershell
+cd F:\Repos\Minshell\Minshell
+dotnet build -r win-x64
+dotnet run
